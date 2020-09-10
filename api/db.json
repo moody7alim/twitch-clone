@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "after editing",
+      "description": "hope it went through",
+      "id": 7
+    },
+    {
+      "title": "new stream",
+      "description": "hope is is done correctly!!",
+      "userId": "114123298486352467149",
+      "id": 8
+    },
+    {
+      "title": "video",
+      "description": "video",
+      "userId": "114123298486352467149",
+      "id": 9
+    }
+  ]
+}
