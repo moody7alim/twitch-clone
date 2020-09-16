@@ -5,3 +5,6 @@ This is a replica for the famous website `Twitch`. The website allows you to sta
 ## Technologies used
 + React js for front-end
 + JSON-Server as a back-end server
++ Node-Media-Server for uploading streams
+
+
