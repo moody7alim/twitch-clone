@@ -8,3 +8,9 @@ This is a replica for the famous website `Twitch`. The website allows you to sta
 + Node-Media-Server for uploading streams
 
 
+## upcoming?
++ More CSS styling
++ Using Node with Express and MongoDB for the back-end processing
++ Trying different 
+
+
