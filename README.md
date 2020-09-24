@@ -3,7 +3,7 @@ This is a replica for the famous website `Twitch`. The website allows you to sta
 
 
 ## Languages and Technologies used
-+ React js for front-end, along with HTML, CSS, and Javascript
++ React.js for the front-end, along with HTML, CSS, and Javascript
 + JSON-Server as a back-end server
 + Node-Media-Server for uploading streams
 
